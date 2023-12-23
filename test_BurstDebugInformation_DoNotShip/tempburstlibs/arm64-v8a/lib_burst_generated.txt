@@ -8,6 +8,17 @@ Library: D:\GitProject\XRGorillaZilla\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --float-precision=Standard
 --target-framework=NetFramework
 --assembly-defines=Assembly-CSharp;
+--assembly-defines=AssistantCoreSDKRuntime;
+--assembly-defines=CFXRDemo;
+--assembly-defines=CFXRRuntime;
+--assembly-defines=KinoBloom.Runtime;
+--assembly-defines=Meta.VoiceSDK.Mic.Common;
+--assembly-defines=Meta.VoiceSDK.Mic.Other;
+--assembly-defines=Meta.WitAi.Conduit;
+--assembly-defines=Meta.WitAi;
+--assembly-defines=Meta.WitAi.Lib;
+--assembly-defines=Meta.WitAi.TTS;
+--assembly-defines=Meta.XR.Audio;
 --assembly-defines=Meta.XR.BuildingBlocks;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
@@ -17,6 +28,7 @@ Library: D:\GitProject\XRGorillaZilla\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --assembly-defines=System.Configuration;
 --assembly-defines=System.Core;
 --assembly-defines=System;
+--assembly-defines=System.Numerics;
 --assembly-defines=System.Xml;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.Burst.Unsafe;
@@ -28,6 +40,7 @@ Library: D:\GitProject\XRGorillaZilla\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.XR.Oculus;
 --assembly-defines=UnityEngine;
+--assembly-defines=VoiceSDK.Runtime;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\GitProject\XRGorillaZilla\Temp\Burst
 --key-folder=D:/Unity/2022.3.10f1/Editor/Data/PlaybackEngines/AndroidPlayer
@@ -53,6 +66,17 @@ Library: D:\GitProject\XRGorillaZilla\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --target-framework=NetFramework
 --float-mode=Fast
 --assembly-defines=Assembly-CSharp;
+--assembly-defines=AssistantCoreSDKRuntime;
+--assembly-defines=CFXRDemo;
+--assembly-defines=CFXRRuntime;
+--assembly-defines=KinoBloom.Runtime;
+--assembly-defines=Meta.VoiceSDK.Mic.Common;
+--assembly-defines=Meta.VoiceSDK.Mic.Other;
+--assembly-defines=Meta.WitAi.Conduit;
+--assembly-defines=Meta.WitAi;
+--assembly-defines=Meta.WitAi.Lib;
+--assembly-defines=Meta.WitAi.TTS;
+--assembly-defines=Meta.XR.Audio;
 --assembly-defines=Meta.XR.BuildingBlocks;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
@@ -62,6 +86,7 @@ Library: D:\GitProject\XRGorillaZilla\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --assembly-defines=System.Configuration;
 --assembly-defines=System.Core;
 --assembly-defines=System;
+--assembly-defines=System.Numerics;
 --assembly-defines=System.Xml;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Unity.Burst.Unsafe;
@@ -73,6 +98,7 @@ Library: D:\GitProject\XRGorillaZilla\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --assembly-defines=Unity.XR.Management;
 --assembly-defines=Unity.XR.Oculus;
 --assembly-defines=UnityEngine;
+--assembly-defines=VoiceSDK.Runtime;
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\GitProject\XRGorillaZilla\Temp\Burst
 --key-folder=D:/Unity/2022.3.10f1/Editor/Data/PlaybackEngines/AndroidPlayer
