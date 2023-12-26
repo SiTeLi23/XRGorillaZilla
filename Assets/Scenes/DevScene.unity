@@ -1547,6 +1547,7 @@ MonoBehaviour:
   requestFaceTrackingPermissionOnStartup: 0
   requestEyeTrackingPermissionOnStartup: 0
   requestScenePermissionOnStartup: 1
+  requestRecordAudioPermissionOnStartup: 0
   _localDimming: 1
   _trackingOriginType: 1
   usePositionTracking: 1
@@ -2531,17 +2532,17 @@ PrefabInstance:
     - target: {fileID: 7463309425559231005, guid: fe83bad1ac8c76b428ddb01b753e3089,
         type: 3}
       propertyPath: debugSpawnPoints
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7463309425559231005, guid: fe83bad1ac8c76b428ddb01b753e3089,
         type: 3}
       propertyPath: wallLayer.m_Bits
-      value: 1088
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7463309425559231005, guid: fe83bad1ac8c76b428ddb01b753e3089,
         type: 3}
       propertyPath: furnitureLayer.m_Bits
-      value: 2176
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8075881162458040698, guid: fe83bad1ac8c76b428ddb01b753e3089,
         type: 3}
@@ -6513,7 +6514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f0540b20-dfd6-420e-b20d-c270f88dc77e
-  instanceId: 50111fb1-84e4-470a-bffe-66e1058b1dae
+  instanceId: 35d1d29d-f4de-448a-8379-b5d4b1bdab85
   version: 1
 --- !u!1 &1597134924
 GameObject:
@@ -8501,7 +8502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f0540b20-dfd6-420e-b20d-c270f88dc77e
-  instanceId: 50111fb1-84e4-470a-bffe-66e1058b1dae
+  instanceId: 7a3906c4-c6fd-462d-b4c5-4eb5a9d30347
   version: 1
 --- !u!1 &2003524513
 GameObject:
